@@ -6,6 +6,7 @@
     "pipedream",
     "integration",
     "api"
+    "worker"
   ],
   "homepage": "https://github.com/PipedreamHQ/pipedream#readme",
   "bugs": {
